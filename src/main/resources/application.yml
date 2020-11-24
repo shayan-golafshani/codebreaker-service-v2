@@ -4,7 +4,7 @@ spring:
       resourceserver:
         jwt:
           issuer-uri: https://accounts.google.com
-          client-id: 344482862092-366uphlltbp291h63k5bnbcdfs514a4b.apps.googleusercontent.com
+          client-id: 910239689478-rkrjhg5j6emlntf4jia56bu2seka3lbs.apps.googleusercontent.com
   datasource:
     url: jdbc:derby:codebreaker_db;create=true;collation=TERRITORY_BASED:PRIMARY
   jpa:
